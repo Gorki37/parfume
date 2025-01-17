@@ -1,0 +1,30 @@
+{
+    "templates": [
+        {
+            "name": "Klasik Eau de Parfum",
+            "brand": "Örnek Marka",
+            "model": "EDP-01",
+            "bottleSize": 100.0,
+            "essenceAmount": 15.0,
+            "alcoholAmount": 80.0,
+            "waterAmount": 5.0,
+            "seasons": ["SUMMER", "SPRING"],
+            "gender": "UNISEX",
+            "notes": "Klasik EDP formülü",
+            "restingDays": 30
+        },
+        {
+            "name": "Yoğun Parfüm",
+            "brand": "Örnek Marka",
+            "model": "P-02",
+            "bottleSize": 50.0,
+            "essenceAmount": 20.0,
+            "alcoholAmount": 75.0,
+            "waterAmount": 5.0,
+            "seasons": ["WINTER", "FALL"],
+            "gender": "UNISEX",
+            "notes": "Yoğun konsantrasyonlu formül",
+            "restingDays": 45
+        }
+    ]
+} 
